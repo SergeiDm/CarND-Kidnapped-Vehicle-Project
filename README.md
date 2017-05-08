@@ -6,7 +6,9 @@ A vehicle has been kidnapped and transported to a new location, but with a map o
 The project includes the following folder/files:
 - illustrations - the folder with pictures for README.md.
 - data – the folder with samples of:
-    control data ('control_data.txt'), true positions measurement data from both LIDAR and RADAR.
+    
+        control data ('control_data.txt'), true positions measurement data from both LIDAR and RADAR.
+    
 - output_data - the folder with output files, produced by the project pipeline.
 - src - the folder with c++ files with Unscented Kalman Filter algorithm.
 - CMakeLists.txt - the file for building program.
