@@ -16,7 +16,7 @@ The project includes the following folder/files:
 - CMakeLists.txt - the file for building program.
 
 ## Results
-The output results are introduced in 'output.txt' file. Additionaly.
+The output results are introduced in 'output.txt' file.
 
 Here is the picture showing map landmarks, true and predicted vehicle positions:
 
