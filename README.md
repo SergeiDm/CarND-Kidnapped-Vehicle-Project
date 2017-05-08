@@ -8,10 +8,10 @@ The project includes the following folder/files:
 - data – the folder with samples of:
     
     - control data ('control_data.txt'): vehicle speed (in meters per second), vehicle yaw rate (in radians per second);
-    - true vehicle positions ('gt_data.txt'): x coordinate, y coordinate, theta;
+    - true vehicle positions ('gt_data.txt'): x coordinate, y coordinate, yaw;
     - map data ('map_data.txt'): x coordinate, y coordinate, landmark id;
     - [observation data](https://github.com/udacity/CarND-Kidnapped-Vehicle-Project/tree/master/data/observation): x distance to the landmark in meters (right is positive) relative to vehicle, y distance to the landmark in meters (forward is positive) relative to vehicle.
-    - output data ('output.txt') - example of calculated x coordinate, y coordinate, theta by using particle filter. 
+    - output data ('output.txt') - example of calculated x coordinate, y coordinate and yaw by using particle filter. 
 - src - the folder with c++ files with Particle Filter implementation.
 - CMakeLists.txt - the file for building program.
 
