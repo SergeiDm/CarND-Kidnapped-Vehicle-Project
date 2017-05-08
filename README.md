@@ -20,4 +20,4 @@ The output results are introduced in 'output.txt' file.
 
 Here is the picture showing map landmarks, true and predicted vehicle positions:
 
-<img src="https://github.com/SergeiDm/CarND-Kidnapped-Vehicle-Project/blob/master/illustration/landmarks_and_positions.png" width="800" height="400"/>
+<img src="https://github.com/SergeiDm/CarND-Kidnapped-Vehicle-Project/blob/master/illustration/landmarks_and_positions.png" width="780" height="400"/>
