@@ -7,7 +7,12 @@ The project includes the following folder/files:
 - illustrations - the folder with pictures for README.md.
 - data – the folder with samples of:
     
-    - control data ('control_data.txt'), true positions measurement data from both LIDAR and RADAR.
+    - control data ('control_data.txt'): vehicle speed (in meters per second), vehicle yaw rate (in radians per second)
+    - true vehicle positions ('gt_data.txt'): x coordinate, y coordinate, theta
+    - map data ('map_data.txt'): x coordinate, y coordinate, landmark id
+    - [observation data](https://github.com/udacity/CarND-Kidnapped-Vehicle-Project/tree/master/data/observation)
+
+
     
 - output_data - the folder with output files, produced by the project pipeline.
 - src - the folder with c++ files with Unscented Kalman Filter algorithm.
