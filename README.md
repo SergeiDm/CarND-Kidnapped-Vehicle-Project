@@ -1,6 +1,6 @@
 # CarND-Kidnapped-Vehicle-Project
 ## Project Description
-A vehicle has been kidnapped and transported to a new location, but with a map of this location, a GPS estimate of its initial location, and sensor and control data, this project implements a 2 dimensional particle filter for tracking this vehicle.
+A vehicle has been kidnapped and transported to a new location, but with a map of this location, a GPS estimation of its initial location, and sensor and control data, this project implements a 2 dimensional particle filter for tracking this vehicle.
 
 ## Project files
 The project includes the following folder/files:
